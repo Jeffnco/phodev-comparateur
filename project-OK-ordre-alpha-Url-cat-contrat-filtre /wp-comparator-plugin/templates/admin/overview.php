@@ -57,6 +57,9 @@
                     <code>[wp_comparator type="slug-du-type"]</code>
                     <p>Affiche la page de sélection avec vignettes</p>
                     
+                    <code>[wp_comparator type="slug-du-type" category="slug-de-categorie-de-contrat"]</code>
+                    <p>Affiche la page de sélection filtrée par catégorie de contrat</p>
+                    
                     <code>[wp_comparator_compare type="slug-du-type" items="slug1,slug2"]</code>
                     <p>Compare deux éléments côte à côte</p>
                     

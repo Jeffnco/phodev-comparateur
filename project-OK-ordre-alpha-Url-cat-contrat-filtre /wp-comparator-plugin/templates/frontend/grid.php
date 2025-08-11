@@ -111,7 +111,7 @@
                                 Comparer
                             </label>
                             
-                            <a href="?single=<?php echo esc_attr($item->slug); ?>" class="button-view-single">
+                            <a href="/<?php echo esc_attr($item->slug); ?>" class="button-view-single">
                                 Voir en détail
                             </a>
                             
